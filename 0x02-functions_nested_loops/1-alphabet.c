@@ -2,7 +2,6 @@
 
 /**
  * print_alphabet - function that prints the alphabet
- * @i: alphabet to be printed
  * Return: 0
  */
 
